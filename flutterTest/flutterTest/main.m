@@ -1,0 +1,15 @@
+//
+//  main.m
+//  flutterTest
+//
+//  Created by zhouyang on 2019/9/8.
+//
+
+#import <UIKit/UIKit.h>
+#import "AppDelegate.h"
+
+int main(int argc, char * argv[]) {
+    @autoreleasepool {
+        return UIApplicationMain(argc, argv, nil, NSStringFromClass([AppDelegate class]));
+    }
+}
